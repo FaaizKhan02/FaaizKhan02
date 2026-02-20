@@ -1,19 +1,20 @@
 # FaaizKhan02
 👋 HI! I’M FAAIZ KHAN
+
 🎓 BS COMPUTER SCIENCE (CYBERSECURITY) STUDENT | SZABIST ’27
+
 🔐 SPECIALIZATIONS: Offensive Security • Vulnerability Research • AI/LLM Security
+
 🛡️ SKILLS: Red Teaming • Bug Hunting • Ethical Hacking
+
 🧠 PASSION: Cyber Intelligence & Threat Analysis
 
 🌐 ABOUT ME
+
 I am a Cybersecurity-focused Computer Science student specializing in Offensive Security, Vulnerability Research, AI/LLM Security, and Cyber Intelligence.
-
 As a Cyber Intelligence Enthusiast, I am deeply interested in:
-
 Understanding threat actors & attack patterns
-
 Conducting digital reconnaissance
-
 Analyzing emerging cyber warfare tactics
 
 I study how adversaries operate, how attack campaigns evolve, and how intelligence-driven security can proactively defend digital infrastructures.
@@ -65,6 +66,7 @@ Authentication & Authorization Flaws
 Security Misconfigurations
 
 🤖 WEB & AI SECURITY EXPERTISE
+
 Certified in OWASP Top 10 (2021 & 2025) including LLM & GenAI Security.
 
 Areas of Interest:
@@ -90,6 +92,7 @@ Detection engineering
 Digital forensics (Cybercrime Investigation)
 
 🎯 LONG-TERM GOAL
+
 To evolve into a highly skilled Red Team Specialist and Cybersecurity Engineer with strong foundations in Cyber Intelligence, Digital Forensics, and Cybercrime Investigation — capable of identifying threats, analyzing adversaries, investigating incidents, and securing complex cloud and AI-driven systems.
 
 ⭐ OPEN TO
