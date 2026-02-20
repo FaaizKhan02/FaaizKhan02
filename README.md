@@ -4,7 +4,7 @@
 🎓 BS COMPUTER SCIENCE (CYBERSECURITY) STUDENT | SZABIST ’27
 
 🔐 SPECIALIZATIONS: 
-Offensive Security • Vulnerability Research • AI/LLM Security
+Offensive Security • Vulnerability Research • CyberInvestigation and Digital Forensics
 
 🛡️ SKILLS:
 Red Teaming • Bug Hunting • Ethical Hacking
@@ -12,7 +12,7 @@ Red Teaming • Bug Hunting • Ethical Hacking
 🧠 PASSION:
 Cyber Intelligence •Threat Analysis •Digital Forensics •Cyber Crime Investigation
 
-🌐 ABOUT ME
+#🌐 ABOUT ME:
 
 I am a Cybersecurity-focused Computer Science student specializing in Offensive Security, Vulnerability Research, AI/LLM Security, and Cyber Intelligence.
 As a Cyber Intelligence Enthusiast, I am deeply interested in:
@@ -24,7 +24,7 @@ I study how adversaries operate, how attack campaigns evolve, and how intelligen
 
 My core focus is on simulating real-world attacks, analyzing adversarial behavior, and engineering defensive strategies that strengthen modern systems — particularly in cloud and AI-driven environments.
 
-🚀 WHAT I DO
+#🚀 WHAT I DO:
 
 🔎 Perform web security testing
 
@@ -38,7 +38,7 @@ My core focus is on simulating real-world attacks, analyzing adversarial behavio
 
 🧠 Cyber Intelligence Focus: Threat profiling • OSINT • Attack surface analysis • Malware research • AI-driven threats
 
-🧪 EXPERIENCE
+#🧪 EXPERIENCE:
 
 🏢 Cyber Security Intern – CodeAlpha
 
@@ -56,7 +56,7 @@ Worked on real-time monitoring & traffic inspection
 
 🔹 Practical training on Hack The Box & TryHackMe
 
-🛑 Vulnerabilities I Identify:
+🛑 Vulnerabilities I Identify
 
 Cross-Site Scripting (XSS)
 
@@ -68,7 +68,7 @@ Authentication & Authorization Flaws
 
 Security Misconfigurations
 
-🤖 WEB & AI SECURITY EXPERTISE
+#🤖 WEB & AI SECURITY EXPERTISE:
 
 Certified in OWASP Top 10 (2021 & 2025) including LLM & GenAI Security.
 
@@ -82,7 +82,7 @@ AI system hardening
 
 Defensive AI security architectures
 
-📚 CURRENTLY IMPROVING
+#📚 CURRENTLY IMPROVING:
 
 Advanced Red Team methodologies
 
@@ -94,11 +94,11 @@ Detection engineering
 
 Digital forensics (Cybercrime Investigation)
 
-🎯 LONG-TERM GOAL
+#🎯 LONG-TERM GOAL:
 
 To evolve into a highly skilled Red Team Specialist and Cybersecurity Engineer with strong foundations in Cyber Intelligence, Digital Forensics, and Cybercrime Investigation — capable of identifying threats, analyzing adversaries, investigating incidents, and securing complex cloud and AI-driven systems.
 
-⭐ OPEN TO
+#⭐ OPEN TO:
 
 Cybersecurity & Red Team Internships
 
