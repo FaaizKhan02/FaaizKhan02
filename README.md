@@ -3,11 +3,14 @@
 
 🎓 BS COMPUTER SCIENCE (CYBERSECURITY) STUDENT | SZABIST ’27
 
-🔐 SPECIALIZATIONS: Offensive Security • Vulnerability Research • AI/LLM Security
+🔐 SPECIALIZATIONS: 
+Offensive Security • Vulnerability Research • AI/LLM Security
 
-🛡️ SKILLS: Red Teaming • Bug Hunting • Ethical Hacking
+🛡️ SKILLS:
+Red Teaming • Bug Hunting • Ethical Hacking
 
-🧠 PASSION: Cyber Intelligence & Threat Analysis
+🧠 PASSION:
+Cyber Intelligence •Threat Analysis •Digital Forensics •Cyber Crime Investigation
 
 🌐 ABOUT ME
 
