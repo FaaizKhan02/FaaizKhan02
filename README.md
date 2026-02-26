@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>
+
 👋 HI! I’M FAAIZ KHAN
 <br><br>
 🎓 <strong>BS COMPUTER SCIENCE (CYBERSECURITY) STUDENT | SZABIST ’27</strong>
