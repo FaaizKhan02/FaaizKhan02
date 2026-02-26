@@ -69,7 +69,7 @@ Tools:
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
-![And More](https://img.shields.io/badge/OWASP_ZAP-%23000000.svg?style=flat&logo=owasp&logoColor=white)
+![And More...](https://img.shields.io/badge/And More...-%23000000.svg?style=flat&logo=owasp&logoColor=white)
 
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
