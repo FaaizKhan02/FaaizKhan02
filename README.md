@@ -30,61 +30,77 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/faaizkhancyber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanfaaiz940@gmail.com) 
 
-# 💻 Tech Stack
+# 💻 Technical Skills
 
 ## 🖥️ Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-## 🌐 Web & Frameworks
+## 🌐 Web & Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+
+Full-Stack Development • Secure Coding • API Debugging • Software Engineering
 
 ## 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=flat&logo=postgresql&logoColor=white)
 
-## ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+## 🛡️ Cybersecurity
+Ethical Hacking • Penetration Testing • Bug Bounty Hunting  
+Threat Intelligence • AI / LLM Security • System Hardening  
 
-## 🛡️ Cybersecurity & Networking
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
+Tools:
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=flat&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23007ACC.svg?style=flat&logo=gnu-bash&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-%23000000.svg?style=flat&logo=owasp&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata_IDS-%23000000.svg?style=flat&logo=linux&logoColor=white)
+
+## 🖥️ Operating Systems
+![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/kali_linux-%23557C94.svg?style=flat&logo=kalilinux&logoColor=white)
 
 ## 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
 
-## 🎨 Design & Creativity
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
+## 💻 Hardware & Systems
+Hardware & Software Troubleshooting  
+System Maintenance  
+Network Fundamentals  
+Network Traffic Analysis  
+Protocol Decoding  
 
-## 🎮 Other Platforms
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+# 📜 Certifications
+
+### 🛡️ OWASP Top 10 2021 – Web Application Security  
+Platform: TryHackMe  
+• Hands-on vulnerability fixing (Injection, XSS, Authentication)  
+• Practical Burp Suite usage  
+• Secure coding implementation  
+
+### 🤖 OWASP Top 10 2025 – LLMs & GenAI Security  
+Platform: Snyk  
+• AI Security fundamentals  
+• LLM vulnerability mitigation  
+• Securing GenAI applications  
+
+### 🌐 OWASP Top 10 2025 – Web Application Security  
+Platform: TryHackMe  
+• Identifying & exploiting Injection, XSS, Security Misconfiguration  
+• Authentication & Access Control flaws  
+• Practical mitigation techniques  
+
 <br>________________________________________<br>
 
 🔭 <strong>CURRENTLY WORKING ON</strong>
