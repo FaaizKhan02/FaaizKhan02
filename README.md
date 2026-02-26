@@ -30,7 +30,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/faaizkhancyber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanfaaiz940@gmail.com) 
 
-# 💻 Technical Skills
+# Technical Skills
 
 ## 🖥️ Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -56,7 +56,6 @@ Full-Stack Development • Secure Coding • API Debugging • Software Engineer
 ## 🛡️ Cybersecurity
 Ethical Hacking • Penetration Testing • Bug Bounty Hunting  
 Threat Intelligence • AI / LLM Security • System Hardening  
-
 Tools:
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=flat&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%23007ACC.svg?style=flat&logo=gnu-bash&logoColor=white)
@@ -100,7 +99,6 @@ Platform: TryHackMe
 • Identifying & exploiting Injection, XSS, Security Misconfiguration  
 • Authentication & Access Control flaws  
 • Practical mitigation techniques  
-
 <br>________________________________________<br>
 
 🔭 <strong>CURRENTLY WORKING ON</strong>
