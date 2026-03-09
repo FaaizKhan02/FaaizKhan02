@@ -228,21 +228,28 @@ Platform: TryHackMe
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaaizKhan02&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FaaizKhan02&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Trophies-blue?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-## 🚀 Top Contributed Repositories
+## 🚀 Top Contributed Repository
 
 <p align="center">
   <a href="https://github.com/FaaizKhan02/FaaizKhan02">
     <img src="https://github-contributor-stats.vercel.app/api?username=FaaizKhan02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
   </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://github.com/FaaizKhan02/FaaizKhan02"><b>Visit My Main Repository</b></a>
 </p>
 
 ---
@@ -251,11 +258,15 @@ Platform: TryHackMe
 
 <p align="center">
   <a href="https://github.com/FaaizKhan02">
-    <img src="https://visitcount.itsvg.in/api?id=FaaizKhan02&icon=5&color=6"/>
+    <img src="https://visitcount.itsvg.in/api?id=FaaizKhan02&icon=5&color=12"/>
   </a>
 </p>
 
 ---
+
+<p align="center">
+⭐ <b>Thanks for visiting my GitHub profile!</b>
+</p>
 
 ⭐ *Thanks for visiting my GitHub profile!*
 
