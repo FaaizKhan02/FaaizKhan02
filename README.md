@@ -238,8 +238,6 @@ Platform: TryHackMe
   <img src="https://img.shields.io/badge/GitHub-Trophies-blue?style=for-the-badge&logo=github"/>
 </p>
 
----
-
 ## 🚀 Top Contributed Repository
 
 <p align="center">
@@ -250,22 +248,6 @@ Platform: TryHackMe
 
 <p align="center">
   🔗 <a href="https://github.com/FaaizKhan02/FaaizKhan02"><b>Visit My Main Repository</b></a>
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <a href="https://github.com/FaaizKhan02">
-    <img src="https://visitcount.itsvg.in/api?id=FaaizKhan02&icon=5&color=12"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-⭐ <b>Thanks for visiting my GitHub profile!</b>
 </p>
 
 ⭐ *Thanks for visiting my GitHub profile!*
