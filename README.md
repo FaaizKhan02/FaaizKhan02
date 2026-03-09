@@ -73,6 +73,7 @@ Tools:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)
 
 ## 🖥️ Operating Systems
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
