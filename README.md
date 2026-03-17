@@ -6,9 +6,8 @@
 <br>________________________________________<br>
 
 🛡️ <strong>SKILLS</strong>
-<br>• Red Teaming
-<br>• Bug Hunting
-<br>• Ethical Hacking
+<br>• Offensive Security 
+<br>• Security Software Developement
 <br>________________________________________<br>
 
 🧠 <strong>PASSION</strong>
